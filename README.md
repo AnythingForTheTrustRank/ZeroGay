@@ -12,9 +12,9 @@ Odious SRC - https://github.com/notunixian/odious
 
 You Can Deobfuscate ZeroDay By Using The Following:
 
-https://github.com/SychicBoy/NetReactorSlayer
-https://github.com/horsicq/Detect-It-Easy
-https://github.com/NotPrab/.NET-Deobfuscator
+.Net Reactor Slayer - https://github.com/SychicBoy/NetReactorSlayer | 
+Detect It Easy (DIE) - https://github.com/horsicq/Detect-It-Easy | 
+.Net Deobfuscators - https://github.com/NotPrab/.NET-Deobfuscator
 
 Anyone Can Do This, It's Not Hard And Its Super Easy Bc Its A Precompiled Tool On Github. 
 I'm Posting These For If You'd Like To Take A Look At The ZeroDay DLL Yourself.
